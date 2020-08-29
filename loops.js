@@ -22,7 +22,7 @@ function whileLoop(n) {
   return("done");
 }
 
-let i = 0;
+let i = 1;
  
 function incrementVariable() {
   i = i + 1;
